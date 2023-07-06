@@ -1,6 +1,10 @@
-# quiz_1_dan_uts_papb
+# QUIZ 1 Dan UTS PAPB
 
-A new Flutter project.
+## Buatlah aplikasi sederhana seperti contoh diatas menggunakan flutter untuk menunjukkan:
+## Tunjukkan bilangan 0-45 yang merupakan bilangan prima yang ganjil (untuk mahasiswa dengan nomor absen genap)
+
+Nama : Saiful Rizal
+NIM  : 20104410067
 
 ## Getting Started
 
